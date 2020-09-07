@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">光柵防偽產品驗證</string>
+    <string name="title_activity_sections">SectionsActivity</string>
+    <string name="invert">光柵模擬</string>
+    <string name="edge">邊緣</string>
+    <string name="sobel">梯度</string>
+    <string name="boxBlur">盒子模糊</string>
+    <string name="faceDetection">人臉偵測</string>
+    <string name="face_trace">人臉追蹤</string>
+    <string name="eye_area">眼睛候選區域</string>
+    <string name="eye_found">眼睛檢測</string>
+    <string name="render_ball">眼睛渲染</string>
+    <string name="eye_ball">黑眼球</string>
+
+    <string name="app_name1">光柵防偽產品驗證</string>
+    <string name="cameradecryption">行動相機解密</string>
+    <string name="imageuploadanddecryption">影像上傳解密</string>
+    <string name="productinformation">產品資訊查詢</string>
+    <string name="instructionsforuse">使用說明</string>
+    <string name="cameratakepic">拍攝新影像</string>
+    <string name="takepicofcamera">從拍攝清單選取影像</string>
+    <string name="takepicofdocument">從檔案總管選取影像</string>
+    <string name="opencamera">開啟相機</string>
+    <string name="uploadimg">上傳影像</string>
+    <string name="browseuploadimg">以瀏覽器上傳</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">此App提供給使用者進行光柵的影像解析，並且提供不同的功能提供使用者使用。
+        <!--    功能分為三項，包含上傳功能、查詢功能-->
+        <!--  \n\n 第一項功能使用相機拍照或者進入相簿選取照片後，進行光柵的影像分析。\n第二項因應手機版本的不同，
+          透過選擇照片的方式上傳至伺服器進行解析，解析後的結果回傳至手機進行檢視。\n第三項功能則是查詢功能，初步
+          建立資料庫的方式存取資料，後續可以連接至網站進行產品查詢的相關動作。-->
+    </string>
+
+    <string name="description1">相關連結
+    </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!--    searchview example setting-->
+    <string name="keyword">Keyword</string>
+
+    <string name="home_second">Home Second</string>
+</resources>

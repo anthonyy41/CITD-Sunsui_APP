@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editTextWidth"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="請輸入寬度(預設值:9)">
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTextDpi"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="請輸入DPI(預設值:101.16)"></EditText>
+
+    <EditText
+        android:id="@+id/editTextAngles"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="請輸入角度(預設值:0)"></EditText>
+
+</LinearLayout>
